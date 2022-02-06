@@ -15,7 +15,7 @@ namespace CS_DZ1
             string playerName;
             byte helth;
             float frictionForce;
-            char a, b, c, d;
+            char correctAnswer;
             object cube;
             short maxSpeed;
             long distanceToMars;
